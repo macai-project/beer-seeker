@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Beer seeker
+The endpoint to use is: `https://api.punkapi.com/v2`
+Here you will find the documentation to implement the API.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
