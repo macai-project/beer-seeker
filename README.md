@@ -1,6 +1,7 @@
 # Beer seeker
 The endpoint to use is: `https://api.punkapi.com/v2`
-Here you will find the documentation to implement the API.
+
+[Here](https://punkapi.com/documentation/v2) you will find the documentation to implement the API.
 
 ## Getting Started with Create React App
 
