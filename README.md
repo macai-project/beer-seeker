@@ -1,5 +1,7 @@
 # Beer seeker
-The endpoint to use is: `https://api.punkapi.com/v2`
+Beer seeker is an application used to find your favorite beer!
+
+To find your beer you will need to show a list of the available beers and a detail page showing the information about the beer.
 
 [Here](https://punkapi.com/documentation/v2) you will find the documentation to implement the API.
 
